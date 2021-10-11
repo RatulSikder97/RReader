@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RReader" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimaryDark">#219ebc</item>
+        <item name="colorPrimary">#8ecae6</item>
+        <item name="colorAccent">#ffb703</item>
+    </style>
+</resources>
